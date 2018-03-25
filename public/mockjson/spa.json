@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "id": 3,
+      "name": "BLENDED TO PERFECTION",
+      "title": "COFFEES & TEAS",
+      "desc": "We take pride in our work, and it shows. Every time you order a beverage from us, we guarantee that it will be an experience worth having. Whether it's our world famous Venezuelan Cappuccino, a refreshing iced herbal tea, or something as simple as a cup of speciality sourced black coffee, you will be coming back for more.",
+      "path": "assets/img/products-01.jpg"
+    },
+    {
+      "id": 4,
+      "name": "DELICIOUS TREATS, GOOD EATS      ",
+      "title": "BAKERY & KITCHEN      ",
+      "desc": "Our seasonal menu features delicious snacks, baked goods, and even full meals perfect for breakfast or lunchtime. We source our ingredients from local, oragnic farms whenever possible, alongside premium vendors for specialty goods.",
+      "path": "assets/img/products-02.jpg"
+    },
+    {
+      "id": 5,
+      "name": "FROM AROUND THE WORLD        ",
+      "title": "BULK SPECIALITY BLENDS        ",
+      "desc": "Travelling the world for the very best quality coffee is something take pride in. When you visit us, you'll always find new blends from around the world, mainly from regions in Central and South America. We sell our blends in smaller to large bulk quantities. Please visit us in person for more details.",
+      "path": "assets/img/products-03.jpg"
+    },
+    {
+      "id": 6,
+      "name": "BLENDED TO PERFECTION",
+      "title": "COFFEES & TEAS",
+      "desc": "We take pride in our work, and it shows. Every time you order a beverage from us, we guarantee that it will be an experience worth having. Whether it's our world famous Venezuelan Cappuccino, a refreshing iced herbal tea, or something as simple as a cup of speciality sourced black coffee, you will be coming back for more.",
+      "path": "assets/img/products-01.jpg"
+    },
+    {
+      "id": 7,
+      "name": "BLENDED TO PERFECTION",
+      "title": "COFFEES & TEAS",
+      "desc": "We take pride in our work, and it shows. Every time you order a beverage from us, we guarantee that it will be an experience worth having. Whether it's our world famous Venezuelan Cappuccino, a refreshing iced herbal tea, or something as simple as a cup of speciality sourced black coffee, you will be coming back for more.",
+      "path": "assets/img/products-01.jpg"
+    },
+    {
+      "name": "BLENDED TO PERFECTION",
+      "title": "COFFEES & TEAS",
+      "desc": "We take pride in our work, and it shows. Every time you order a beverage from us, we guarantee that it will be an experience worth having. Whether it's our world famous Venezuelan Cappuccino, a refreshing iced herbal tea, or something as simple as a cup of speciality sourced black coffee, you will be coming back for more.",
+      "path": "assets/img/products-01.jpg",
+      "id": 9
+    },
+    {
+      "name": "BLENDED TO PERFECTION",
+      "title": "COFFEES & TEAS",
+      "desc": "We take pride in our work, and it shows. Every time you order a beverage from us, we guarantee that it will be an experience worth having. Whether it's our world famous Venezuelan Cappuccino, a refreshing iced herbal tea, or something as simple as a cup of speciality sourced black coffee, you will be coming back for more.",
+      "path": "assets/img/products-01.jpg",
+      "id": 11
+    }
+  ]
+}
